@@ -1,4 +1,8 @@
 # 🌱 FIAP - Faculdade de Informática e Administração Paulista  
+<p align="center">
+  <img width="600" alt="Logo FIAP" src="https://github.com/user-attachments/assets/1ac95cf0-81b9-4748-b0a7-876f466e6897" />
+</p>
+
 
 ## 💡 Nome do Projeto
 **Sistema Agrícola Inteligente – Fase 2**
