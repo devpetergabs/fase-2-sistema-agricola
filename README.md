@@ -1,6 +1,12 @@
-# 🌱 Sistema Agrícola Inteligente com ESP32
+# 🌱 FIAP - Faculdade de Informática e Administração Paulista  
 
-# Link do ytb --> https://youtu.be/5-09AhAbPCc****
+## 💡 Nome do Projeto
+**Sistema Agrícola Inteligente – Fase 2**
+
+## 👨‍💻 Aluno
+Gabriel Peter Ferreira  
+
+## Link do ytb --> https://youtu.be/5-09AhAbPCc****
 
 ## 📘 Visão Geral
 Este projeto tem como objetivo simular um **sistema automatizado de irrigação agrícola**, baseado em sensores de **umidade (DHT22)**, **luminosidade/pH (LDR/Potenciômetro)** e **níveis de nutrientes (botões NPK)**, utilizando uma **placa ESP32**.
